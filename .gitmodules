@@ -1,0 +1,3 @@
+[submodule "area"]
+	path = area
+	url = https://github.com/carlosbadenas/area.subarea.respo01.git
